@@ -13,6 +13,7 @@
 		4A5507251A6DE95E00AACA20 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A5507241A6DE95E00AACA20 /* Images.xcassets */; };
 		4A5507281A6DE95E00AACA20 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A5507261A6DE95E00AACA20 /* LaunchScreen.xib */; };
 		4A5507341A6DE95E00AACA20 /* Whats_The_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5507331A6DE95E00AACA20 /* Whats_The_WeatherTests.swift */; };
+		4A5507401A6DEDC000AACA20 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A55073F1A6DEDC000AACA20 /* background.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		4A55072D1A6DE95E00AACA20 /* Whats The WeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats The WeatherTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A5507321A6DE95E00AACA20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A5507331A6DE95E00AACA20 /* Whats_The_WeatherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_The_WeatherTests.swift; sourceTree = "<group>"; };
+		4A55073F1A6DEDC000AACA20 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				4A55071D1A6DE95E00AACA20 /* AppDelegate.swift */,
 				4A55071F1A6DE95E00AACA20 /* ViewController.swift */,
 				4A5507211A6DE95E00AACA20 /* Main.storyboard */,
+				4A55073F1A6DEDC000AACA20 /* background.png */,
 				4A5507241A6DE95E00AACA20 /* Images.xcassets */,
 				4A5507261A6DE95E00AACA20 /* LaunchScreen.xib */,
 				4A55071B1A6DE95E00AACA20 /* Supporting Files */,
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A5507231A6DE95E00AACA20 /* Main.storyboard in Resources */,
+				4A5507401A6DEDC000AACA20 /* background.png in Resources */,
 				4A5507281A6DE95E00AACA20 /* LaunchScreen.xib in Resources */,
 				4A5507251A6DE95E00AACA20 /* Images.xcassets in Resources */,
 			);
