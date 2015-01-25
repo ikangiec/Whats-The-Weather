@@ -30,7 +30,7 @@ class ViewController: UIViewController {
                     
                     var urlContentArray = urlContent.componentsSeparatedByString("<span class=\"phrase\">")
                     
-                    if urlContentArray.count > 0 {
+                    if urlContentArray.count > 1 {
                         
                         var weatherArray = urlContentArray[1].componentsSeparatedByString("</span>")
                         
